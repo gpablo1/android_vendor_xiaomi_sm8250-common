@@ -1833,7 +1833,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "sound_trigger.primary.kona",
+    name: "sound_trigger.primary.kona.xiaomi_prebuilt_test",
     owner: "xiaomi",
     strip: {
         none: true,
